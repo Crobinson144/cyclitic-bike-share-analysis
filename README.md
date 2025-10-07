@@ -64,7 +64,7 @@ Junior Data Analyst
 
 📧 [crobinson144@gmail.com](mailto:crobinson144@gmail.com)
 
-🔗 LinkedIn Profile
+🔗 https://www.linkedin.com/in/chinua-eric-robinson/
 
-💼 Portfolio Website
+💼 https://www.chinuaericrobinson.com
 
