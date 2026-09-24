@@ -1,0 +1,6 @@
+"step","rows"
+"Raw rows (Q1 2019 + Q1 2020)",791956
+"Removed: start station HQ QR",3767
+"Removed: ride length zero or negative",0
+"Removed: missing timestamps or user type",0
+"Rows analysed",788189
